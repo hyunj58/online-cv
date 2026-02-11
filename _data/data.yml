@@ -19,6 +19,7 @@ sidebar:
   
   interests:
     title: Interests
+    info:
       - item: Electronic Design Automation
         link:
 
